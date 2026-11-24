@@ -15,28 +15,28 @@
 ### 🦉 Sobre · About · À propos · De me
 
 <details open>
-<summary><b>🇬🇧 English</b></summary>
+<summary><b>EN · English</b></summary>
 
 I'm Bruno. I build whatever I'm curious about, and I'm curious about a lot. I'm an undergraduate researcher in Applied Neurocomputing at PUC Minas (EEG, ADS1299, web and mobile for neurodata). I also keep a long queue of side obsessions: fire spread in space with Navier–Stokes, an IoT gadget against excessive phone use, games for Roblox, and a study of how compulsive games work. Software is my tool, not my limit.
 
 </details>
 
 <details>
-<summary><b>🇫🇷 Français</b></summary>
+<summary><b>FR · Français</b></summary>
 
 Moi, c'est Bruno. Je construis ce qui m'intrigue, et beaucoup de choses m'intriguent. Je fais de la recherche en neuro-informatique appliquée à la PUC Minas (EEG, ADS1299, web et mobile pour les neurodonnées). J'entretiens aussi une longue file d'obsessions parallèles : la propagation du feu dans l'espace avec Navier–Stokes, un dispositif IoT contre l'usage excessif du téléphone, des jeux pour Roblox et une étude sur le fonctionnement des jeux compulsifs. Le logiciel est mon outil, pas ma limite.
 
 </details>
 
 <details>
-<summary><b>🏛️ Latina</b></summary>
+<summary><b>LA · Latina</b></summary>
 
 Bruno sum. Quae me movent, ea aedifico, et multa me movent. In PUC Minas neurocomputationem applicatam investigo (EEG, ADS1299, web et mobilia pro neurodatis). Longum quoque agmen cupiditatum alterarum servo: propagationem incendii in spatio per Navier–Stokes, instrumentum IoT contra nimium telephonii usum, ludos pro Roblox, et studium quomodo ludi compulsivi operentur. Programmata mihi instrumentum sunt, non terminus.
 
 </details>
 
 <details>
-<summary><b>🇧🇷 Português</b></summary>
+<summary><b>PT · Português</b></summary>
 
 Sou o Bruno. Construo o que me dá curiosidade, e tenho curiosidade por muita coisa. Pesquiso Neurocomputação Aplicada na PUC Minas (EEG, ADS1299, web e mobile para neurodados). Também mantenho uma fila longa de obsessões paralelas: propagação de fogo no espaço com Navier–Stokes, um dispositivo IoT contra o uso excessivo de celular, jogos para Roblox e um estudo sobre como funcionam os jogos compulsivos. Software é minha ferramenta, não meu limite.
 
