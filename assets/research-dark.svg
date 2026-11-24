@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 512" width="1200" height="512" role="img" aria-label="Linhas de pesquisa em inglês, francês, latim e português">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 788" width="1200" height="788" role="img" aria-label="Linhas de pesquisa em inglês, francês, latim e português">
 <style>
   .t{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif} .m{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}
   
@@ -17,9 +17,12 @@
   @keyframes roll{0%,60%{transform:rotate(0)}80%{transform:rotate(360deg)}100%{transform:rotate(360deg)}}
   .ic-doc line{stroke-dasharray:16;animation:ln 4s ease-out infinite}
   @keyframes ln{0%{stroke-dashoffset:16}40%,100%{stroke-dashoffset:0}}
+  .ic-peak{animation:pk 5s ease-in-out infinite} @keyframes pk{50%{transform:translateY(-3px) scale(1.06)}}
+  .ic-rocket{animation:rk 2.6s ease-in-out infinite} @keyframes rk{0%,100%{transform:translateY(2px) rotate(-3deg)}50%{transform:translateY(-4px) rotate(3deg)}}
+  .ic-car{animation:cr 3s ease-in-out infinite} @keyframes cr{0%,100%{transform:translateX(-3px)}50%{transform:translateX(3px)}}
   @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
-<rect x="1" y="1" width="1198" height="510" rx="22" fill="#121810" stroke="#2b3527" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="786" rx="22" fill="#121810" stroke="#2b3527" stroke-width="2"/>
 <g>
   <circle cx="72" cy="74" r="31" fill="#1d261a" stroke="#2b3527" stroke-width="2"/>
   <g transform="translate(72,74)"><g class="ic ic-eeg"><path fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M-18,4 L-11,4 L-7,-12 L-1,14 L4,-6 L8,4 L18,4"/></g></g>
@@ -88,6 +91,48 @@
 <text class="m" x="1140" y="442" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">LA</text></g><g class="lg" style="animation-delay:15s"><text class="t" x="132" y="434" font-size="23" font-weight="700" fill="#F6F1E4">Documentação técnica</text>
 <text class="t" x="132" y="462" font-size="16" fill="#9aa68f">Revisão de literatura do ADS1299 e guia para iniciantes de EEG com Arduino.</text>
 <text class="m" x="1140" y="442" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">PT</text></g>
+  <line x1="132" y1="486" x2="1140" y2="486" stroke="#2b3527" stroke-width="1.5"/>
+</g>
+<g>
+  <circle cx="72" cy="534" r="31" fill="#1d261a" stroke="#2b3527" stroke-width="2"/>
+  <g transform="translate(72,534)"><g class="ic ic-peak"><path fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M-20,16 L-6,-12 L2,2 L9,-6 L20,16 Z"/><path fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M-6,-12 L-1,-3"/></g></g>
+  <g class="lg f" style="animation-delay:0s"><text class="t" x="132" y="526" font-size="23" font-weight="700" fill="#F6F1E4">Philosophy</text>
+<text class="t" x="132" y="554" font-size="16" fill="#9aa68f">Nietzsche's will to power: an ongoing obsession.</text>
+<text class="m" x="1140" y="534" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">EN</text></g><g class="lg" style="animation-delay:5s"><text class="t" x="132" y="526" font-size="23" font-weight="700" fill="#F6F1E4">Philosophie</text>
+<text class="t" x="132" y="554" font-size="16" fill="#9aa68f">La volonté de puissance de Nietzsche : une obsession constante.</text>
+<text class="m" x="1140" y="534" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">FR</text></g><g class="lg" style="animation-delay:10s"><text class="t" x="132" y="526" font-size="23" font-weight="700" fill="#F6F1E4">Philosophia</text>
+<text class="t" x="132" y="554" font-size="16" fill="#9aa68f">Nietzschei voluntas ad potentiam: cura perpetua.</text>
+<text class="m" x="1140" y="534" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">LA</text></g><g class="lg" style="animation-delay:15s"><text class="t" x="132" y="526" font-size="23" font-weight="700" fill="#F6F1E4">Filosofia</text>
+<text class="t" x="132" y="554" font-size="16" fill="#9aa68f">A vontade de potência de Nietzsche: uma obsessão em curso.</text>
+<text class="m" x="1140" y="534" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">PT</text></g>
+  <line x1="132" y1="578" x2="1140" y2="578" stroke="#2b3527" stroke-width="1.5"/>
+</g>
+<g>
+  <circle cx="72" cy="626" r="31" fill="#1d261a" stroke="#2b3527" stroke-width="2"/>
+  <g transform="translate(72,626)"><g class="ic ic-rocket"><path fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M0,-20 C9,-12 11,0 7,12 L-7,12 C-11,0 -9,-12 0,-20 Z"/><path fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M-7,4 L-15,14 L-7,11 M7,4 L15,14 L7,11"/><circle cx="0" cy="-5" r="3" fill="#E0B02A"/></g></g>
+  <g class="lg f" style="animation-delay:0s"><text class="t" x="132" y="618" font-size="23" font-weight="700" fill="#F6F1E4">Startups</text>
+<text class="t" x="132" y="646" font-size="16" fill="#9aa68f">Building companies from zero. Vertice is one of them.</text>
+<text class="m" x="1140" y="626" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">EN</text></g><g class="lg" style="animation-delay:5s"><text class="t" x="132" y="618" font-size="23" font-weight="700" fill="#F6F1E4">Startups</text>
+<text class="t" x="132" y="646" font-size="16" fill="#9aa68f">Bâtir des entreprises à partir de rien. Vertice en fait partie.</text>
+<text class="m" x="1140" y="626" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">FR</text></g><g class="lg" style="animation-delay:10s"><text class="t" x="132" y="618" font-size="23" font-weight="700" fill="#F6F1E4">Incepta nova</text>
+<text class="t" x="132" y="646" font-size="16" fill="#9aa68f">Societates a nihilo condere. Vertice una earum est.</text>
+<text class="m" x="1140" y="626" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">LA</text></g><g class="lg" style="animation-delay:15s"><text class="t" x="132" y="618" font-size="23" font-weight="700" fill="#F6F1E4">Startups</text>
+<text class="t" x="132" y="646" font-size="16" fill="#9aa68f">Construir empresas do zero. A Vertice é uma delas.</text>
+<text class="m" x="1140" y="626" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">PT</text></g>
+  <line x1="132" y1="670" x2="1140" y2="670" stroke="#2b3527" stroke-width="1.5"/>
+</g>
+<g>
+  <circle cx="72" cy="718" r="31" fill="#1d261a" stroke="#2b3527" stroke-width="2"/>
+  <g transform="translate(72,718)"><g class="ic ic-car"><path fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M-20,8 L-17,-1 Q-13,-10 -2,-10 Q9,-10 13,-3 L20,2 L20,8 Z"/><circle fill="#1d261a" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" cx="-10" cy="10" r="4.5"/><circle fill="#1d261a" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" cx="11" cy="10" r="4.5"/></g></g>
+  <g class="lg f" style="animation-delay:0s"><text class="t" x="132" y="710" font-size="23" font-weight="700" fill="#F6F1E4">Cars</text>
+<text class="t" x="132" y="738" font-size="16" fill="#9aa68f">Engineering, presence and the feeling of driving.</text>
+<text class="m" x="1140" y="718" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">EN</text></g><g class="lg" style="animation-delay:5s"><text class="t" x="132" y="710" font-size="23" font-weight="700" fill="#F6F1E4">Automobiles</text>
+<text class="t" x="132" y="738" font-size="16" fill="#9aa68f">Ingénierie, présence et sensation de conduire.</text>
+<text class="m" x="1140" y="718" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">FR</text></g><g class="lg" style="animation-delay:10s"><text class="t" x="132" y="710" font-size="23" font-weight="700" fill="#F6F1E4">Autoraedae</text>
+<text class="t" x="132" y="738" font-size="16" fill="#9aa68f">Ars machinalis, praesentia et sensus gubernandi.</text>
+<text class="m" x="1140" y="718" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">LA</text></g><g class="lg" style="animation-delay:15s"><text class="t" x="132" y="710" font-size="23" font-weight="700" fill="#F6F1E4">Carros</text>
+<text class="t" x="132" y="738" font-size="16" fill="#9aa68f">Engenharia, presença e a sensação de dirigir.</text>
+<text class="m" x="1140" y="718" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">PT</text></g>
   
 </g>
 </svg>

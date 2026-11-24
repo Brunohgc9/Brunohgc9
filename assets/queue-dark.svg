@@ -6,8 +6,8 @@
 </defs>
 <style>
   .t{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif} .m{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}
-  .strip{animation:run 33s linear infinite}
-  @keyframes run{from{transform:translateX(0)}to{transform:translateX(1838px)}}
+  .strip{animation:run 48s linear infinite}
+  @keyframes run{from{transform:translateX(0)}to{transform:translateX(2648px)}}
   .belt{stroke-dasharray:4 12;animation:belt 1.2s linear infinite} @keyframes belt{to{stroke-dashoffset:-16}}
   .ring{transform-box:fill-box;transform-origin:center;animation:spin 30s linear infinite} @keyframes spin{to{transform:rotate(360deg)}}
   .ack{opacity:0;animation:ack 2.6s ease-out infinite} @keyframes ack{0%{opacity:0;transform:translateY(8px)}20%{opacity:1;transform:none}70%{opacity:1}100%{opacity:0;transform:translateY(-8px)}}
@@ -22,39 +22,55 @@
 <line class="belt" x1="48" y1="120" x2="925" y2="120" stroke="#2b3527" stroke-width="3" stroke-linecap="round"/>
 <g clip-path="url(#trk)"><g class="strip"><g transform="translate(150,0)"><rect x="0" y="100" width="172" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">neurocomputação</text></g><g transform="translate(348,0)"><rect x="0" y="100" width="227" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">neurocomputação</text></g><g transform="translate(348,0)"><rect x="0" y="100" width="209" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">dynamique des fluides</text></g><g transform="translate(601,0)"><rect x="0" y="100" width="62" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">vontade de potência</text></g><g transform="translate(583,0)"><rect x="0" y="100" width="227" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">IoT</text></g><g transform="translate(689,0)"><rect x="0" y="100" width="172" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">dynamique des fluides</text></g><g transform="translate(836,0)"><rect x="0" y="100" width="108" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">ludi compulsivi</text></g><g transform="translate(887,0)"><rect x="0" y="100" width="144" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">startups</text></g><g transform="translate(970,0)"><rect x="0" y="100" width="62" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">Roblox games</text></g><g transform="translate(1057,0)"><rect x="0" y="100" width="126" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">IoT</text></g><g transform="translate(1057,0)"><rect x="0" y="100" width="227" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">algoritmos</text></g><g transform="translate(1209,0)"><rect x="0" y="100" width="108" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">voluntas ad potentiam</text></g><g transform="translate(1310,0)"><rect x="0" y="100" width="89" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">firmware</text></g><g transform="translate(1343,0)"><rect x="0" y="100" width="126" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">carros</text></g><g transform="translate(1426,0)"><rect x="0" y="100" width="172" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">hackintosh</text></g><g transform="translate(1495,0)"><rect x="0" y="100" width="98" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">ludi compulsivi</text></g><g transform="translate(1624,0)"><rect x="0" y="100" width="126" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">linguae</text></g><g transform="translate(1619,0)"><rect x="0" y="100" width="163" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">algoritmos</text></g><g transform="translate(1776,0)"><rect x="0" y="100" width="218" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">tamagotchi DIY</text></g><g transform="translate(1808,0)"><rect x="0" y="100" width="154" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">volonté de puissance</text></g><g transform="translate(2020,0)"><rect x="0" y="100" width="108" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">Navier–Stokes</text></g><g transform="translate(-1688,0)"><rect x="0" y="100" width="172" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">firmware</text></g><g transform="translate(2153,0)"><rect x="0" y="100" width="126" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">neurocomputação</text></g><g transform="translate(-1490,0)"><rect x="0" y="100" width="227" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">hackintosh</text></g><g transform="translate(2305,0)"><rect x="0" y="100" width="98" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">dynamique des fluides</text></g><g transform="translate(-1236,0)"><rect x="0" y="100" width="62" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">linguae</text></g><g transform="translate(2430,0)"><rect x="0" y="100" width="163" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">IoT</text></g><g transform="translate(-1149,0)"><rect x="0" y="100" width="172" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">tamagotchi DIY</text></g><g transform="translate(2618,0)"><rect x="0" y="100" width="154" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">ludi compulsivi</text></g><g transform="translate(-951,0)"><rect x="0" y="100" width="144" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">Navier–Stokes</text></g><g transform="translate(-2498,0)"><rect x="0" y="100" width="172" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">Roblox games</text></g><g transform="translate(-780,0)"><rect x="0" y="100" width="126" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">neurocomputação</text></g><g transform="translate(-2300,0)"><rect x="0" y="100" width="209" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
-  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">algoritmos</text></g><g transform="translate(-628,0)"><rect x="0" y="100" width="108" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">vontade de potência</text></g><g transform="translate(-2065,0)"><rect x="0" y="100" width="227" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">dynamique des fluides</text></g><g transform="translate(-1812,0)"><rect x="0" y="100" width="108" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">startups</text></g><g transform="translate(-1678,0)"><rect x="0" y="100" width="62" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">IoT</text></g><g transform="translate(-1591,0)"><rect x="0" y="100" width="227" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">voluntas ad potentiam</text></g><g transform="translate(-1338,0)"><rect x="0" y="100" width="89" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">carros</text></g><g transform="translate(-1222,0)"><rect x="0" y="100" width="172" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">ludi compulsivi</text></g><g transform="translate(-1024,0)"><rect x="0" y="100" width="126" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">algoritmos</text></g><g transform="translate(-872,0)"><rect x="0" y="100" width="218" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
+  <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
+  <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">volonté de puissance</text></g><g transform="translate(-628,0)"><rect x="0" y="100" width="108" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
   <text class="m" x="30" y="125" font-size="15" fill="#F6F1E4">firmware</text></g><g transform="translate(-495,0)"><rect x="0" y="100" width="126" height="40" rx="12" fill="#121810" stroke="#E0B02A" stroke-width="1.8"/>
   <circle cx="16" cy="120" r="4" fill="#7EE0A8"/>
