@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 512" width="1200" height="512" role="img" aria-label="Linhas de pesquisa em inglês, francês, latim e português">
+<style>
+  .t{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif} .m{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}
+  
+  .lg{opacity:0;animation:lg 20s linear infinite both}
+  .lg.f{opacity:1}
+  @keyframes lg{0%{opacity:0}2.5%{opacity:1}22.5%{opacity:1}25%{opacity:0}100%{opacity:0}}
+
+  .ic{transform-box:fill-box;transform-origin:center}
+  .ic-eeg path{stroke-dasharray:90;animation:eegd 3s ease-in-out infinite}
+  @keyframes eegd{0%{stroke-dashoffset:90}55%,100%{stroke-dashoffset:0}}
+  .ic-fire{animation:flick 1.4s ease-in-out infinite}
+  @keyframes flick{0%,100%{transform:scale(1,1) rotate(0)}30%{transform:scale(.94,1.07) rotate(-3deg)}60%{transform:scale(1.04,.96) rotate(2deg)}}
+  .ic-phone{animation:vib 5s infinite}
+  @keyframes vib{0%,70%,100%{transform:rotate(0)}72%{transform:rotate(-9deg)}76%{transform:rotate(9deg)}80%{transform:rotate(-7deg)}84%{transform:rotate(6deg)}88%{transform:rotate(0)}}
+  .ic-dice{animation:roll 6s ease-in-out infinite}
+  @keyframes roll{0%,60%{transform:rotate(0)}80%{transform:rotate(360deg)}100%{transform:rotate(360deg)}}
+  .ic-doc line{stroke-dasharray:16;animation:ln 4s ease-out infinite}
+  @keyframes ln{0%{stroke-dashoffset:16}40%,100%{stroke-dashoffset:0}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="1" y="1" width="1198" height="510" rx="22" fill="#121810" stroke="#2b3527" stroke-width="2"/>
+<g>
+  <circle cx="72" cy="74" r="31" fill="#1d261a" stroke="#2b3527" stroke-width="2"/>
+  <g transform="translate(72,74)"><g class="ic ic-eeg"><path fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M-18,4 L-11,4 L-7,-12 L-1,14 L4,-6 L8,4 L18,4"/></g></g>
+  <g class="lg f" style="animation-delay:0s"><text class="t" x="132" y="66" font-size="23" font-weight="700" fill="#F6F1E4">Neurocomputing</text>
+<text class="t" x="132" y="94" font-size="16" fill="#9aa68f">EEG acquisition with the ADS1299; web and mobile layers for neurodata.</text>
+<text class="m" x="1140" y="74" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">EN</text></g><g class="lg" style="animation-delay:5s"><text class="t" x="132" y="66" font-size="23" font-weight="700" fill="#F6F1E4">Neuro-informatique</text>
+<text class="t" x="132" y="94" font-size="16" fill="#9aa68f">Acquisition EEG avec l'ADS1299 ; couches web et mobile pour les neurodonnées.</text>
+<text class="m" x="1140" y="74" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">FR</text></g><g class="lg" style="animation-delay:10s"><text class="t" x="132" y="66" font-size="23" font-weight="700" fill="#F6F1E4">Neurocomputatio</text>
+<text class="t" x="132" y="94" font-size="16" fill="#9aa68f">Electroencephalogramma per ADS1299; strata web et mobilia pro neurodatis.</text>
+<text class="m" x="1140" y="74" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">LA</text></g><g class="lg" style="animation-delay:15s"><text class="t" x="132" y="66" font-size="23" font-weight="700" fill="#F6F1E4">Neurocomputação</text>
+<text class="t" x="132" y="94" font-size="16" fill="#9aa68f">Aquisição de EEG com o ADS1299; camadas web e mobile para neurodados.</text>
+<text class="m" x="1140" y="74" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">PT</text></g>
+  <line x1="132" y1="118" x2="1140" y2="118" stroke="#2b3527" stroke-width="1.5"/>
+</g>
+<g>
+  <circle cx="72" cy="166" r="31" fill="#1d261a" stroke="#2b3527" stroke-width="2"/>
+  <g transform="translate(72,166)"><g class="ic ic-fire"><path fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M0,-18 C6,-8 14,-4 14,6 C14,14 8,19 0,19 C-8,19 -14,14 -14,6 C-14,-1 -9,-5 -6,-10 C-4,-6 -2,-4 0,-3 C2,-8 1,-13 0,-18 Z"/></g></g>
+  <g class="lg f" style="animation-delay:0s"><text class="t" x="132" y="158" font-size="23" font-weight="700" fill="#F6F1E4">Fluid dynamics</text>
+<text class="t" x="132" y="186" font-size="16" fill="#9aa68f">Navier–Stokes applied to fire spread in space environments.</text>
+<text class="m" x="1140" y="166" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">EN</text></g><g class="lg" style="animation-delay:5s"><text class="t" x="132" y="158" font-size="23" font-weight="700" fill="#F6F1E4">Dynamique des fluides</text>
+<text class="t" x="132" y="186" font-size="16" fill="#9aa68f">Navier–Stokes appliqué à la propagation du feu en milieu spatial.</text>
+<text class="m" x="1140" y="166" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">FR</text></g><g class="lg" style="animation-delay:10s"><text class="t" x="132" y="158" font-size="23" font-weight="700" fill="#F6F1E4">Dynamica fluidorum</text>
+<text class="t" x="132" y="186" font-size="16" fill="#9aa68f">Navier–Stokes ad incendii propagationem in spatio.</text>
+<text class="m" x="1140" y="166" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">LA</text></g><g class="lg" style="animation-delay:15s"><text class="t" x="132" y="158" font-size="23" font-weight="700" fill="#F6F1E4">Dinâmica de fluidos</text>
+<text class="t" x="132" y="186" font-size="16" fill="#9aa68f">Navier–Stokes aplicado à propagação de fogo em ambientes espaciais.</text>
+<text class="m" x="1140" y="166" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">PT</text></g>
+  <line x1="132" y1="210" x2="1140" y2="210" stroke="#2b3527" stroke-width="1.5"/>
+</g>
+<g>
+  <circle cx="72" cy="258" r="31" fill="#1d261a" stroke="#2b3527" stroke-width="2"/>
+  <g transform="translate(72,258)"><g class="ic ic-phone"><rect fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" x="-10" y="-18" width="20" height="36" rx="5"/><line fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" x1="-3" y1="12" x2="3" y2="12"/></g></g>
+  <g class="lg f" style="animation-delay:0s"><text class="t" x="132" y="250" font-size="23" font-weight="700" fill="#F6F1E4">Attention &amp; behaviour</text>
+<text class="t" x="132" y="278" font-size="16" fill="#9aa68f">An IoT device to curb excessive phone use.</text>
+<text class="m" x="1140" y="258" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">EN</text></g><g class="lg" style="animation-delay:5s"><text class="t" x="132" y="250" font-size="23" font-weight="700" fill="#F6F1E4">Attention et comportement</text>
+<text class="t" x="132" y="278" font-size="16" fill="#9aa68f">Un dispositif IoT contre l'usage excessif du téléphone.</text>
+<text class="m" x="1140" y="258" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">FR</text></g><g class="lg" style="animation-delay:10s"><text class="t" x="132" y="250" font-size="23" font-weight="700" fill="#F6F1E4">Attentio et mores</text>
+<text class="t" x="132" y="278" font-size="16" fill="#9aa68f">Instrumentum IoT contra nimium telephonii usum.</text>
+<text class="m" x="1140" y="258" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">LA</text></g><g class="lg" style="animation-delay:15s"><text class="t" x="132" y="250" font-size="23" font-weight="700" fill="#F6F1E4">Atenção e comportamento</text>
+<text class="t" x="132" y="278" font-size="16" fill="#9aa68f">Um dispositivo IoT contra o uso excessivo de celular.</text>
+<text class="m" x="1140" y="258" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">PT</text></g>
+  <line x1="132" y1="302" x2="1140" y2="302" stroke="#2b3527" stroke-width="1.5"/>
+</g>
+<g>
+  <circle cx="72" cy="350" r="31" fill="#1d261a" stroke="#2b3527" stroke-width="2"/>
+  <g transform="translate(72,350)"><g class="ic ic-dice"><rect fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" x="-17" y="-17" width="34" height="34" rx="8"/><circle cx="-7" cy="-7" r="2.3" fill="#E0B02A"/><circle cx="7" cy="-7" r="2.3" fill="#E0B02A"/><circle cx="0" cy="0" r="2.3" fill="#E0B02A"/><circle cx="-7" cy="7" r="2.3" fill="#E0B02A"/><circle cx="7" cy="7" r="2.3" fill="#E0B02A"/></g></g>
+  <g class="lg f" style="animation-delay:0s"><text class="t" x="132" y="342" font-size="23" font-weight="700" fill="#F6F1E4">Compulsive games</text>
+<text class="t" x="132" y="370" font-size="16" fill="#9aa68f">How compulsion loops work: a study, and an article in the making.</text>
+<text class="m" x="1140" y="350" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">EN</text></g><g class="lg" style="animation-delay:5s"><text class="t" x="132" y="342" font-size="23" font-weight="700" fill="#F6F1E4">Jeux compulsifs</text>
+<text class="t" x="132" y="370" font-size="16" fill="#9aa68f">Comment fonctionnent les boucles compulsives : une étude et un article en préparation.</text>
+<text class="m" x="1140" y="350" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">FR</text></g><g class="lg" style="animation-delay:10s"><text class="t" x="132" y="342" font-size="23" font-weight="700" fill="#F6F1E4">Ludi compulsivi</text>
+<text class="t" x="132" y="370" font-size="16" fill="#9aa68f">Quomodo circuli compulsivi operentur: studium et commentarius in via.</text>
+<text class="m" x="1140" y="350" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">LA</text></g><g class="lg" style="animation-delay:15s"><text class="t" x="132" y="342" font-size="23" font-weight="700" fill="#F6F1E4">Jogos compulsivos</text>
+<text class="t" x="132" y="370" font-size="16" fill="#9aa68f">Como funcionam os loops compulsivos: um estudo e um artigo em preparação.</text>
+<text class="m" x="1140" y="350" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">PT</text></g>
+  <line x1="132" y1="394" x2="1140" y2="394" stroke="#2b3527" stroke-width="1.5"/>
+</g>
+<g>
+  <circle cx="72" cy="442" r="31" fill="#1d261a" stroke="#2b3527" stroke-width="2"/>
+  <g transform="translate(72,442)"><g class="ic ic-doc"><path fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M-12,-18 L6,-18 L14,-10 L14,18 L-12,18 Z"/><path fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" d="M6,-18 L6,-10 L14,-10"/><line fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" x1="-6" y1="0" x2="8" y2="0"/><line fill="none" stroke="#E0B02A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" x1="-6" y1="8" x2="8" y2="8"/></g></g>
+  <g class="lg f" style="animation-delay:0s"><text class="t" x="132" y="434" font-size="23" font-weight="700" fill="#F6F1E4">Technical writing</text>
+<text class="t" x="132" y="462" font-size="16" fill="#9aa68f">Literature review of the ADS1299 and a beginner's guide to Arduino-based EEG (pt-BR).</text>
+<text class="m" x="1140" y="442" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">EN</text></g><g class="lg" style="animation-delay:5s"><text class="t" x="132" y="434" font-size="23" font-weight="700" fill="#F6F1E4">Documentation technique</text>
+<text class="t" x="132" y="462" font-size="16" fill="#9aa68f">Revue de littérature sur l'ADS1299 et guide du débutant pour l'EEG avec Arduino (pt-BR).</text>
+<text class="m" x="1140" y="442" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">FR</text></g><g class="lg" style="animation-delay:10s"><text class="t" x="132" y="434" font-size="23" font-weight="700" fill="#F6F1E4">Documentatio technica</text>
+<text class="t" x="132" y="462" font-size="16" fill="#9aa68f">Recensio litterarum de ADS1299 et manuale incipientium de EEG cum Arduino (pt-BR).</text>
+<text class="m" x="1140" y="442" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">LA</text></g><g class="lg" style="animation-delay:15s"><text class="t" x="132" y="434" font-size="23" font-weight="700" fill="#F6F1E4">Documentação técnica</text>
+<text class="t" x="132" y="462" font-size="16" fill="#9aa68f">Revisão de literatura do ADS1299 e guia para iniciantes de EEG com Arduino.</text>
+<text class="m" x="1140" y="442" font-size="13" font-weight="700" fill="#E0B02A" text-anchor="end" letter-spacing="2">PT</text></g>
+  
+</g>
+</svg>
